@@ -1,0 +1,21 @@
+.wrapper {
+  background-color: #f6f5fa;
+  width: 100%;
+  height: 100vh;
+}
+
+.cursor-disabled {
+  cursor: not-allowed !important;
+}
+
+.cursor-pointer {
+  cursor: pointer !important;
+}
+
+.no-shadow {
+  box-shadow: none !important;
+}
+
+.not-found-div {
+  padding-top: 12%;
+}

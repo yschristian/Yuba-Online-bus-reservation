@@ -1,0 +1,54 @@
+.form-div {
+  padding-top: 8%;
+  width: 30%;
+  margin: auto;
+}
+.form-cont {
+  padding-top: 50px;
+  width: 50%;
+  margin: auto;
+  margin-top: 50px;
+  background-color: #f1f4fa;
+  border-radius: 4%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.dash-form {
+  width: 80%;
+}
+
+.alert {
+  width: 320px !important;
+}
+
+.my-pwd-input {
+  border-right: none !important;
+}
+
+.prepend-style {
+  border-right: none !important;
+  transition: all 0.3s !important;
+}
+
+.append-style {
+  transition: all 0.3s !important;
+  border-left: none !important;
+}
+.form-booking{
+  width: 50%;
+  padding: 5px 7px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  width: 300px;
+}
+.form-button{
+  width: 150px;
+  border-radius: 4%;
+  position: relative;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.form-line{
+  margin: 8px 0px;
+}

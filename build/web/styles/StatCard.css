@@ -1,0 +1,36 @@
+.stat-content {
+  width: 100% !important;
+}
+
+.stat-div {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 2px 1px 4px rgba(128, 128, 128, 0.2);
+}
+
+.stat-title {
+  color: #9496a8;
+  font-size: 15px;
+}
+
+.stat-data {
+  color: #111;
+}
+
+.stat-icon {
+  background-color: #778ad7;
+  text-align: center;
+  color: white;
+  width: 40px;
+  height: 40px;
+  font-size: 23px;
+  margin-left: -5px !important;
+  margin-top: 4px !important;
+  padding-top: 3px !important;
+  border-radius: 5px;
+  display: inline-block;
+}
+
+.table-wrapp {
+  font-size: 34px !important;
+}
